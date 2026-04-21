@@ -3,6 +3,6 @@ terraform {
     bucket = "young-minds-aditianaya-bucket"
     key = "main"
     region = "us-east-1"
-    dynamodb_table = "my-dynamodb-table"
+    dynamodb_table = "yg-aditi-2026"
   }
 }
